@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 397f4b4ad8014704a8a18745bbc774c5, type: 3}
+  m_Name: VirtualAreaConfig2
+  m_EditorClassIdentifier: Assembly-CSharp::VRSYS.MuVRse.Scripts.VAConfigCreator
+  areaName: Default 2
+  areaSize: 1000
+  ghostPreviewSize: 1
+  useTransitionByTime: 1
+  transitionDurationSkybox: 1
+  transitionDurationWorld: 3
+  transitionDurationPlayer: 3
+  defaultVirtualArea: {fileID: 2203925908548077492, guid: 7fd395163e1273f4d9ff83a8152e0afc, type: 3}
+  worldContent: {fileID: 392516780595265219, guid: faeb765148b4c8c48bec13d6f363d1d6, type: 3}
+  interactionLayer:
+    m_Bits: 0
