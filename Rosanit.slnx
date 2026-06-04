@@ -1,5 +1,8 @@
 ﻿<Solution>
+  <Project Path="vrsys.core.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="vrsys.core.Editor.csproj" />
+  <Project Path="vrsys.meta-integrations.csproj" />
   <Project Path="VHierarchy.csproj" />
   <Project Path="VFolders.csproj" />
   <Project Path="DOTween.Modules.csproj" />
@@ -7,4 +10,5 @@
   <Project Path="ParrelSync.csproj" />
   <Project Path="VInspector.csproj" />
   <Project Path="DOTweenPro.Scripts.csproj" />
+  <Project Path="vrsys.meta-integrations.Editor.csproj" />
 </Solution>
