@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="VHierarchy.csproj" />
+  <Project Path="VFolders.csproj" />
+  <Project Path="DOTween.Modules.csproj" />
+  <Project Path="DOTweenPro.EditorScripts.csproj" />
+  <Project Path="ParrelSync.csproj" />
+  <Project Path="VInspector.csproj" />
+  <Project Path="DOTweenPro.Scripts.csproj" />
+</Solution>
