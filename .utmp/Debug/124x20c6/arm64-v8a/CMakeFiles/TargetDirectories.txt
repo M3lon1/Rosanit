@@ -1,0 +1,5 @@
+Y:/RONI_Ronit_Temp/Unity/Rosanit101/Rosanit/.utmp/Debug/124x20c6/arm64-v8a/CMakeFiles/edit_cache.dir
+Y:/RONI_Ronit_Temp/Unity/Rosanit101/Rosanit/.utmp/Debug/124x20c6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+Y:/RONI_Ronit_Temp/Unity/Rosanit101/Rosanit/.utmp/Debug/124x20c6/arm64-v8a/GameActivity/CMakeFiles/game.dir
+Y:/RONI_Ronit_Temp/Unity/Rosanit101/Rosanit/.utmp/Debug/124x20c6/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+Y:/RONI_Ronit_Temp/Unity/Rosanit101/Rosanit/.utmp/Debug/124x20c6/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
