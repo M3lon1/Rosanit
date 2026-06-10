@@ -139,6 +139,17 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.formats.alembic": {
+      "version": "2.4.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.8.7",
+        "com.unity.modules.cloth": "1.0.0",
+        "com.unity.modules.unityanalytics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ide.rider": {
       "version": "3.0.39",
       "depth": 0,
@@ -520,9 +531,9 @@
       "url": "https://packages.unity.com"
     },
     "com.vrsys.core": {
-      "version": "https://github.com/vrsys/vrsys-core.git?path=/Packages/com.vrsys.core",
+      "version": "file:Y:/RONI_Ronit_Temp/Unity/Rosanit101/vrsys-core-main/vrsys-core-main/Packages/com.vrsys.core",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "com.unity.netcode.gameobjects": "2.3.2",
         "com.unity.services.authentication": "3.4.1",
@@ -532,19 +543,17 @@
         "com.unity.xr.openxr": "1.14.3",
         "com.unity.ugui": "2.0.0",
         "com.unity.xr.hands": "1.7.3"
-      },
-      "hash": "77cbb88bba8514d9c2ed26ad00585a848575cf37"
+      }
     },
     "com.vrsys.meta-integrations": {
-      "version": "https://github.com/vrsys/vrsys-core.git?path=/Packages/com.vrsys.meta-integrations",
+      "version": "file:Y:/RONI_Ronit_Temp/Unity/Rosanit101/vrsys-core-main/vrsys-core-main/Packages/com.vrsys.meta-integrations",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
-        "com.vrsys.core": "1.0.7",
+        "com.vrsys.core": "1.0.10",
         "com.meta.xr.sdk.avatars": "35.2.0",
         "com.meta.xr.sdk.core": "76.0.1"
-      },
-      "hash": "77cbb88bba8514d9c2ed26ad00585a848575cf37"
+      }
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
